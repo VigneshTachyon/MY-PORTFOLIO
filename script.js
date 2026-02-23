@@ -3,7 +3,7 @@ if (document.getElementById("typing")) {
 
 const text = [
   {word: "Frontend Developer", color: "#00ffff"},
-  {word: "Web Designer", color: "#ff00ff"},
+  {word: "Web Designer", color: "blue"},
   {word: "< / > ", color: "#00ff88"}
 ];
 
@@ -47,4 +47,5 @@ document.addEventListener("DOMContentLoaded", function(){
     }
   }
 });
+
 
