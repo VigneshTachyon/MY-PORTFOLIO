@@ -202,4 +202,9 @@ footer {
 .light-mode .bordered {
   background: lightskyblue;
   color: black;
+
+}
+.light-mode .code {
+  color:#000000;
+ -webkit-text-stroke: 1px red;
 }
